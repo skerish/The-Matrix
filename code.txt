@@ -1,5 +1,5 @@
 @echo off
-color A
+color 1        //changing color from green to blue and commiting
 :jerry
 echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%.
 goto jerry
