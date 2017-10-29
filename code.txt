@@ -1,0 +1,6 @@
+@echo o
+@echo off
+color 2
+:kerish
+echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%.
+goto kerish
