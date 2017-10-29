@@ -3,3 +3,9 @@ color 1        //changing color from green to blue and commiting
 :jerry
 echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%.
 goto jerry
+
+color A
+:kerish
+echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%.
+goto kerish
+
