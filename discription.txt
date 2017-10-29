@@ -1,5 +1,5 @@
--the echo command is used to interprete every command one by one.
--color is set by its code(2-green)
+-the echo command is used to compile every command one by one.
+-color is set by its code(2 is for dark green)
 -intialization by kerish
 -echo %random% -- put any random numbers every time the code initialize.
--goto kerish again to perform the task indefinitely.
+-goto kerish again to perform the task infinitely.
