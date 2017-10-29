@@ -9,3 +9,4 @@ color A
 echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%.
 goto kerish
 
+Now i'm getting tired of this github.     
